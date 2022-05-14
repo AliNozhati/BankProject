@@ -1,0 +1,175 @@
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\USER\Desktop\Bank\BankProject\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\ali\Desktop\one\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\ali\Desktop\dige tamam\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\USER\Desktop\final project\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\Farid\Downloads\Compressed\final project\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\USER\Desktop\پروژه\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.vcxproj.AssemblyReference.cache
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.AddAccountForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.ChangePassForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.ClientForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.ClientInfoFrom.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.DeactiveForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.DepositForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.DismissalEmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.EmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.EmployeeInfoForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.FacilityForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.LeaveForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.LoanStatusForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.LoginForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.ManagerForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.OvertimeForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.RecruiteEmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.RemoveAccountForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.ReqLoanListForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.RequestLoanForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.SeachEmployeeForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.SearchClient.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.WithdrawForm.resources
+C:\Users\Farid\Downloads\Compressed\پروژه\BankProject\x64\Debug\BankProject.vcxproj.GenerateResource.cache

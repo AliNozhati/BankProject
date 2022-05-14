@@ -1,0 +1,106 @@
+  BankProject.AddAccountForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.ChangePassForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.ClientForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.ClientInfoFrom.resources - Embedded, ContainedInManifestFile, 
+  BankProject.DeactiveForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.DepositForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.DismissalEmployeeForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.EmployeeForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.EmployeeInfoForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.FacilityForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.LeaveForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.LoanStatusForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.LoginForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.ManagerForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.OvertimeForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.RecruiteEmployeeForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.RemoveAccountForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.ReqLoanListForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.RequestLoanForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.SeachEmployeeForm.resources - Embedded, ContainedInManifestFile, 
+  BankProject.SearchClient.resources - Embedded, ContainedInManifestFile, 
+  BankProject.WithdrawForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly BankProject, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC.STLCLR, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class BankProject.AddAccountForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.ChangePassForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Client*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.WithdrawForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Client*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.DepositForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Client*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.RequestLoanForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Client*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.ClientInfoFrom: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Client*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.ClientForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Client*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.DeactiveForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Facility*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.DismissalEmployeeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Manager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.SearchClient: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.LeaveForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.OvertimeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.EmployeeInfoForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.RemoveAccountForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.EmployeeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Employee*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.ReqLoanListForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Facility*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.LoanStatusForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Facility*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.FacilityForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Facility*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.SeachEmployeeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Manager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.RecruiteEmployeeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Manager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.ManagerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Manager*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BankProject.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
